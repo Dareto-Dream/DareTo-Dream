@@ -9,6 +9,9 @@
   <a href="https://github.com/dareto-dream">
     <img src="https://img.shields.io/badge/GitHub-DeltaVDev-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
+  <a href="https://deltavdevs.com">
+    <img src="https://img.shields.io/badge/Website-deltavdevs.com-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Website Badge"/>
+  </a>
 </div>
 
 <div align="center">
@@ -16,47 +19,72 @@
 </div>
 
 <h1 align="center">
-  Welcome to My Space 🚀
+  Engineering automation, creative technology, and emotional design — all crafted by a single mind.
 </h1>
 
 ---
 
-### 🌱 About Me
-I’m **DeltaVDev**, an indie developer and part of the **DeltaVDevs** collective.  
-I focus on creating **games, tools, and experimental software** that push boundaries—sometimes in ways that make no sense until they do.
+### 🧩 About Me
+I’m **DeltaVortex**, a developer, designer, and engineer working under the **DeltaVDevs** umbrella.  
+My work spans **AI systems, rhythm horror games, robotics, and hardware interfaces**—each project aiming to make technology feel *human*.
 
-- 🔭 **Current Work**:  
-  - Building narrative-driven rhythm games (*Cadence Collapse*)  
-  - Developing AI assistants & custom programming languages  
-  - Experimenting with robotics and hardware integrations  
+- 🧠 **Current Work**
+  - Building the **JARVIS AI System** (Flask + SocketIO assistant across Jetson, ESP32, iOS)
+  - Expanding **Cadence Collapse** (*Dissonance*) — a rhythm horror visual novel
+  - Developing **Holomat**, a modular touchscreen interface for ESP32 & Pi
+  - Designing **VortexScript**, a custom compiler and scripting language
 
-- ⚡ **Tech Interests**: Low-level programming, game engines, AI, and embedded systems.
+- 🎯 **Philosophy**
+  - **Code is emotion.** Everything I build connects logic with feeling.
+  - **Innovation through obsession.** If it hasn’t been done, I’ll make it happen.
 
-- 🎯 **Indie Focus**: I value **creative freedom** over corporate polish—everything I build is personal.
-
-- 📬 **Contact**: [contact@deltavdevs.com](mailto:contact@deltavdevs.com)
+- 📬 **Contact:** [contact@deltavdevs.com](mailto:contact@deltavdevs.com)
 
 ---
 
-### 🛠 Languages & Tools
-<div>
+### ⚙️ Languages & Tools
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" width="50" height="50"/>
 </div>
 
 ---
 
-### 📊 GitHub Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dareto-dream&theme=dark&background=000000)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dareto-dream&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🧠 Active Projects
+| Project | Type | Status | Summary |
+|----------|------|--------|----------|
+| **JARVIS** | AI Assistant | 🚀 Active | Flask-based AI assistant spanning Jetson, iOS, and ESP32 |
+| **Dissonance (Cadence Collapse)** | Game | 🎭 Writing & Charting | Rhythm horror visual novel about grief and performance |
+| **Holomat** | Hardware / UI | 🧱 Prototype | Modular touchscreen ESP32 + Pi interface |
+| **VortexScript** | Language | ⚗️ Experimental | Custom compiler bridging automation and creativity |
+| **MP3/MP4 Player** | Electronics | 🔧 In Dev | Custom PCB media player with OLED + Li-Po system |
+
+---
+
+### 📊 GitHub Analytics
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=dareto-dream&theme=dark&background=000000" alt="GitHub Streak"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dareto-dream&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</div>
+
+---
+
+### 🎵 Beyond Code
+- 🎹 Composer under **DeltaWave** — original piano, viola, and electronic works  
+- 🧮 Creator of the **DBE Index**, a multidimensional framework for project complexity  
+- 🕹 Developer of rhythm and narrative experiences blending logic and emotion  
+
+---
+
+> **“Engineering automation, creative technology, and emotional design — all crafted by a single mind.”**
