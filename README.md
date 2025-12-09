@@ -80,7 +80,7 @@ My work spans **AI systems, rhythm horror games, robotics, and hardware interfac
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://https://github-readme-stats-production-8baf.up.railway.app/?user=dareto-dream&theme=dark&background=000000" alt="Github Streak"/>
+  <img src="https://github-readme-streak-stats-i1c3izzr0-deltavortexs-projects.vercel.app/?user=dareto-dream&theme=dark&background=000000" alt="Github Streak"/>
   <img src="https://github-readme-stats-production-8baf.up.railway.app/api/top-langs/?username=dareto-dream&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
