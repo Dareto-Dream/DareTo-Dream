@@ -74,7 +74,7 @@ My work spans **AI systems, rhythm horror games, robotics, and hardware interfac
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=dareto-dream&theme=dark&background=000000" alt="GitHub Streak"/><br/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dareto-dream&theme=dark)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dareto-dream&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </div>
 
