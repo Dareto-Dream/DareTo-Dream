@@ -80,7 +80,7 @@ My work spans **AI systems, rhythm horror games, robotics, and hardware interfac
 
 ### 📊 GitHub Analytics
 
-![Streak Stats](https://corsproxy.io/?https://github-readme-streak-stats-i1c3izzr0-deltavortexs-projects.vercel.app/?user=dareto-dream&theme=dark&background=000000)
+![Streak Stats](https://streak-stats.demolab.com/?user=dareto-dream&theme=dark&background=000000)
 
 ![Top Languages](https://github-readme-stats-production-8baf.up.railway.app/api/top-langs/?username=dareto-dream&layout=compact&theme=vision-friendly-dark)
 
